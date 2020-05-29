@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <item android:drawable="@color/colorPrimary"/>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="rectangle">
+    </shape>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/renaissancefrancaise1"/>
+    </item>
+</layer-list>
